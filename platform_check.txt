@@ -1,0 +1,114 @@
+﻿Total rows: 92578
+Col12 (来源平台) unique: 1
+Col12 NaN count: 86
+Col19 (来源) unique: 1
+
+=== First 30 Col12 values ===
+  Row0: [nan] (type=float)
+  Row1: [nan] (type=float)
+  Row2: [nan] (type=float)
+  Row3: [nan] (type=float)
+  Row4: [nan] (type=float)
+  Row5: [nan] (type=float)
+  Row6: [nan] (type=float)
+  Row7: [nan] (type=float)
+  Row8: [nan] (type=float)
+  Row9: [nan] (type=float)
+  Row10: [nan] (type=float)
+  Row11: [nan] (type=float)
+  Row12: [nan] (type=float)
+  Row13: [nan] (type=float)
+  Row14: [nan] (type=float)
+  Row15: [nan] (type=float)
+  Row16: [nan] (type=float)
+  Row17: [nan] (type=float)
+  Row18: [nan] (type=float)
+  Row19: [nan] (type=float)
+  Row20: [nan] (type=float)
+  Row21: [nan] (type=float)
+  Row22: [nan] (type=float)
+  Row23: [nan] (type=float)
+  Row24: [nan] (type=float)
+  Row25: [nan] (type=float)
+  Row26: [nan] (type=float)
+  Row27: [nan] (type=float)
+  Row28: [nan] (type=float)
+  Row29: [nan] (type=float)
+
+=== First 30 Col19 values ===
+  Row0: [智联招聘] (type=str)
+  Row1: [智联招聘] (type=str)
+  Row2: [智联招聘] (type=str)
+  Row3: [智联招聘] (type=str)
+  Row4: [智联招聘] (type=str)
+  Row5: [智联招聘] (type=str)
+  Row6: [智联招聘] (type=str)
+  Row7: [智联招聘] (type=str)
+  Row8: [智联招聘] (type=str)
+  Row9: [智联招聘] (type=str)
+  Row10: [智联招聘] (type=str)
+  Row11: [智联招聘] (type=str)
+  Row12: [智联招聘] (type=str)
+  Row13: [智联招聘] (type=str)
+  Row14: [智联招聘] (type=str)
+  Row15: [智联招聘] (type=str)
+  Row16: [智联招聘] (type=str)
+  Row17: [智联招聘] (type=str)
+  Row18: [智联招聘] (type=str)
+  Row19: [智联招聘] (type=str)
+  Row20: [智联招聘] (type=str)
+  Row21: [智联招聘] (type=str)
+  Row22: [智联招聘] (type=str)
+  Row23: [智联招聘] (type=str)
+  Row24: [智联招聘] (type=str)
+  Row25: [智联招聘] (type=str)
+  Row26: [智联招聘] (type=str)
+  Row27: [智联招聘] (type=str)
+  Row28: [智联招聘] (type=str)
+  Row29: [智联招聘] (type=str)
+
+=== Col12 value_counts (non-null) ===
+  [马  克 数 据 网] -> 92492
+
+=== Col7 unique values ===
+学历要求
+本科          36861
+大专          33714
+学历不限         8692
+中专/中技        3885
+硕士           3226
+不限           3044
+高中           1974
+中专            410
+初中及以下         361
+博士            242
+技校            126
+中技             38
+EMBA            2
+其他              2
+MBA/EMBA        1
+Name: count, dtype: int64
+
+=== Col10 unique values ===
+招聘类别
+全职              74196
+校园                678
+实习                389
+兼职/临时             362
+设备工程师<互联网IT       325
+工艺工程师<互联网IT       320
+电工<房地产_建筑         263
+电子工程师<互联网IT       252
+结构工程师<互联网IT       196
+硬件工程师<互联网IT       178
+暖通<房地产_建筑         148
+测试工程师<互联网IT       145
+室内设计师<房地产_建筑      143
+电气工程师<房地产_建筑      115
+算法工程师<互联网IT       113
+PLC<互联网IT         112
+Java开发<互联网IT      111
+土建工程师<房地产_建筑      109
+数据开发<互联网IT        108
+建筑设计<房地产_建筑       106
+Name: count, dtype: int64

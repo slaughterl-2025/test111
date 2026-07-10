@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Data (large files)
+zhaopin-hunan_20260710152827.xlsx
+processed_data.csv
+
+# OS
+.DS_Store
+Thumbs.db
